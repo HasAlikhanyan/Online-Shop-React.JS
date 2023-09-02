@@ -1,0 +1,60 @@
+.active {
+    color: rgba(0,0,0,0.5);
+    font-size: 20px;
+}
+
+.normal {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+}
+
+.normal:hover {
+    color: rgba(0,0,0,0.5);
+}
+
+.pagesContainer {
+    display:flex;
+    align-items:center;
+}
+
+.topic{
+    font-weight: 700;
+    font-size: 30px;
+    margin-right: 30px;
+}
+
+.pages{
+    color: black;
+    text-decoration: none;
+    }
+
+.pages:hover {
+    color: rgba(0,0,0,0.5);
+}
+
+.navContainer{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+
+
+.tel{
+    width: 170px;
+    height: 30px;
+    background-color: rgba(0,0,0,0.5);
+    margin-top: 20px;
+    
+}
+
+.tel1{
+    color: white;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+
+
+

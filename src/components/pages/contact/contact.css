@@ -1,0 +1,16 @@
+.contactWrapper{
+    display: flex;
+    justify-content: space-around;
+}
+
+.infoWrapper{
+    width: 300px;
+    opacity: 0.9;
+}
+
+h2{
+    font-size: 50px;
+    font-weight: 700;
+    margin-left: 40%;
+    margin-bottom: 40px;
+}

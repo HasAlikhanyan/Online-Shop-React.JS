@@ -1,0 +1,27 @@
+.first-line-free-sheeping-wrapper{
+    display: flex;
+    flex-wrap:wrap;
+    width: 100%;
+}
+
+.first-line-free-sheeping-wrapper>div{
+    height: 130px;
+    width: 33%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.free-sheeping{
+    background-color:#b8b8b8;
+}
+
+.dresses-discount{
+    background-color: rgb(234, 130, 130);
+}
+
+.students-discount{
+    background-color: #3a3a3a;
+}
